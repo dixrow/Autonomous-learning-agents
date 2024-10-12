@@ -1,4 +1,4 @@
-# Autonomous Agents for Education
+# Autonomous learning agents
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -9,7 +9,7 @@
 
 This project is designed to simulate interactions between a teacher and a student using machine learning models. The goal is to create an educational environment where a student model can learn from a teacher model through a series of question-and-answer sessions.
 
-This project was developed in collaboration with [atslisbona](https://github.com/atslisbona) as part of my final master's project.
+This project was developed in collaboration with [atslisbona](https://github.com/atslisbona) as part of our final master's project.
 
 ## Features
 
